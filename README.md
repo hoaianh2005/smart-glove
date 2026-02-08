@@ -95,8 +95,7 @@ Python 3.8以上（AI学習スクリプト実行用）
 Mở Terminal và chạy lần lượt các lệnh sau để tải dự án, cấu hình và nạp chương trình vào ESP32:
 
     # 1. Tải dự án về máy
-    git clone [https://github.com/PhamHongDuyMinh/Smart_Sign_Language_Translator_Glove.git](https://github.com/PhamHongDuyMinh/Smart_Sign_Language_Translator_Glove.git)
-
+    git clone https://github.com/hoaianh2005/smart-glove.git
     # 2. Di chuyển vào thư mục dự án
     cd Smart_Sign_Language_Translator_Glove
 
